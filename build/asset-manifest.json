@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad44af00.css",
+    "main.js": "/static/js/main.1bc3f39c.js",
+    "static/js/787.71df535f.chunk.js": "/static/js/787.71df535f.chunk.js",
+    "static/media/font-icons.woff2": "/static/media/font-icons.bb0aa21537f57f3b891b.woff2",
+    "static/media/1.jpg": "/static/media/1.55b4f22b8e5601439602.jpg",
+    "static/media/parallax-bg.jpg": "/static/media/parallax-bg.1278c97b76e8f0871de5.jpg",
+    "static/media/pattern.png": "/static/media/pattern.0322e52ee5e437901cd7.png",
+    "static/media/webfont-medical-icons.woff2": "/static/media/webfont-medical-icons.f0db0fcb09ce7527072f.woff2",
+    "static/media/logo.png": "/static/media/logo.124b5b70b613f7cd2711.png",
+    "static/media/lined-icons.woff2": "/static/media/lined-icons.3ec85ec15fb89b36eee4.woff2",
+    "static/media/Simple-Line-Icons.woff2": "/static/media/Simple-Line-Icons.61e75e6acb240d7fb9f0.woff2",
+    "index.html": "/index.html",
+    "static/media/iconalt.svg": "/static/media/iconalt.c01648798f8b1fa9a04e.svg",
+    "main.ad44af00.css.map": "/static/css/main.ad44af00.css.map",
+    "main.1bc3f39c.js.map": "/static/js/main.1bc3f39c.js.map",
+    "787.71df535f.chunk.js.map": "/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad44af00.css",
+    "static/js/main.1bc3f39c.js"
+  ]
+}
